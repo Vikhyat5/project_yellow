@@ -2,7 +2,7 @@
   "name": "project_yellow",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://vikhyat5.github.io/",
+  "homepage": "http://vikhyat5.github.io/project_yellow",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
